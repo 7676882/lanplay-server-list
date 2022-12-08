@@ -62,6 +62,116 @@
             "flag": "cn"
         },
         {
+            "comment": "kukiisama",
+            "ip": "mc.kukiisama.top",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "老王",
+            "ip": "wang54188.iask.in",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "jugaojc",
+            "ip": "www.jugaojc.com",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "Server 2",
+            "ip": "122.116.141.58",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "Server 3",
+            "ip": "1.12.75.193",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "aya0",
+            "ip": "aya0.top",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "enptysun",
+            "ip": "www.enptysun.ga",
+            "port": 11556,
+            "flag": "cn"
+        },
+        {
+            "comment": "Server 4",
+            "ip": "101.43.82.249",
+            "port": 11451,
+            "flag": "us"
+        },
+        {
+            "comment": "Server 5",
+            "ip": "124.221.52.85",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "yordon",
+            "ip": "yordon.cn",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "Server 6",
+            "ip": "119.6.232.193",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "Server 7",
+            "ip": "srv.jaxlewis.top",
+            "port": 11451,
+            "flag": "cn"
+        }, 
+        {
+            "comment": "Server 8",
+            "ip": "106.12.147.131",
+            "port": 11451,
+            "flag": "cn"
+        }, 
+        {
+            "comment": "Server 9",
+            "ip": "177040122.xyz",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "台湾1",
+            "ip": "lp1.cpalm.org",
+            "port": 11451,
+            "flag": "cn"
+        }, 
+        {
+            "comment": "台湾2",
+            "ip": "lp2.cpalm.org",
+            "port": 11451,
+            "flag": "cn"
+        },
+        {
+            "comment": "台湾3",
+            "ip": "122.116.141.58",
+            "port": 11451,
+            "flag": "cn"
+        },	
+        {
+            "comment": "美国",
+            "ip": "joinsg.net",
+            "port": 11453,
+            "flag": "cn"
+        }
+    ]
+}
+        {
             "comment": "Server 11",
             "ip": "159.75.87.168",
             "port": 11451,
