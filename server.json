@@ -168,9 +168,7 @@
             "ip": "joinsg.net",
             "port": 11453,
             "flag": "cn"
-        }
-    ]
-}
+        },
         {
             "comment": "Server 11",
             "ip": "159.75.87.168",
